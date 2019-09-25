@@ -1,0 +1,10 @@
+D:\THUC HANH DO AN LAP TRINH WEB TREN .NET_CNTT10-01\ShoppingOnline\ShoppingOnline.Model\bin\Debug\ShoppingOnline.Model.dll.config
+D:\THUC HANH DO AN LAP TRINH WEB TREN .NET_CNTT10-01\ShoppingOnline\ShoppingOnline.Model\bin\Debug\ShoppingOnline.Model.dll
+D:\THUC HANH DO AN LAP TRINH WEB TREN .NET_CNTT10-01\ShoppingOnline\ShoppingOnline.Model\bin\Debug\ShoppingOnline.Model.pdb
+D:\THUC HANH DO AN LAP TRINH WEB TREN .NET_CNTT10-01\ShoppingOnline\ShoppingOnline.Model\bin\Debug\EntityFramework.dll
+D:\THUC HANH DO AN LAP TRINH WEB TREN .NET_CNTT10-01\ShoppingOnline\ShoppingOnline.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\THUC HANH DO AN LAP TRINH WEB TREN .NET_CNTT10-01\ShoppingOnline\ShoppingOnline.Model\bin\Debug\EntityFramework.xml
+D:\THUC HANH DO AN LAP TRINH WEB TREN .NET_CNTT10-01\ShoppingOnline\ShoppingOnline.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\THUC HANH DO AN LAP TRINH WEB TREN .NET_CNTT10-01\ShoppingOnline\ShoppingOnline.Model\obj\Debug\ShoppingOnline.Model.csprojResolveAssemblyReference.cache
+D:\THUC HANH DO AN LAP TRINH WEB TREN .NET_CNTT10-01\ShoppingOnline\ShoppingOnline.Model\obj\Debug\ShoppingOnline.Model.dll
+D:\THUC HANH DO AN LAP TRINH WEB TREN .NET_CNTT10-01\ShoppingOnline\ShoppingOnline.Model\obj\Debug\ShoppingOnline.Model.pdb

@@ -1,0 +1,15 @@
+D:\THUC HANH DO AN LAP TRINH WEB TREN .NET_CNTT10-01\ShoppingOnline\ShoppingOnline.Repository\bin\Debug\ShoppingOnline.Repository.dll.config
+D:\THUC HANH DO AN LAP TRINH WEB TREN .NET_CNTT10-01\ShoppingOnline\ShoppingOnline.Repository\bin\Debug\ShoppingOnline.Repository.dll
+D:\THUC HANH DO AN LAP TRINH WEB TREN .NET_CNTT10-01\ShoppingOnline\ShoppingOnline.Repository\bin\Debug\ShoppingOnline.Repository.pdb
+D:\THUC HANH DO AN LAP TRINH WEB TREN .NET_CNTT10-01\ShoppingOnline\ShoppingOnline.Repository\bin\Debug\EntityFramework.dll
+D:\THUC HANH DO AN LAP TRINH WEB TREN .NET_CNTT10-01\ShoppingOnline\ShoppingOnline.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\THUC HANH DO AN LAP TRINH WEB TREN .NET_CNTT10-01\ShoppingOnline\ShoppingOnline.Repository\bin\Debug\ShoppingOnline.IRepository.dll
+D:\THUC HANH DO AN LAP TRINH WEB TREN .NET_CNTT10-01\ShoppingOnline\ShoppingOnline.Repository\bin\Debug\ShoppingOnline.Model.dll
+D:\THUC HANH DO AN LAP TRINH WEB TREN .NET_CNTT10-01\ShoppingOnline\ShoppingOnline.Repository\bin\Debug\ShoppingOnline.IRepository.pdb
+D:\THUC HANH DO AN LAP TRINH WEB TREN .NET_CNTT10-01\ShoppingOnline\ShoppingOnline.Repository\bin\Debug\ShoppingOnline.Model.pdb
+D:\THUC HANH DO AN LAP TRINH WEB TREN .NET_CNTT10-01\ShoppingOnline\ShoppingOnline.Repository\bin\Debug\ShoppingOnline.Model.dll.config
+D:\THUC HANH DO AN LAP TRINH WEB TREN .NET_CNTT10-01\ShoppingOnline\ShoppingOnline.Repository\bin\Debug\EntityFramework.xml
+D:\THUC HANH DO AN LAP TRINH WEB TREN .NET_CNTT10-01\ShoppingOnline\ShoppingOnline.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\THUC HANH DO AN LAP TRINH WEB TREN .NET_CNTT10-01\ShoppingOnline\ShoppingOnline.Repository\obj\Debug\ShoppingOnline.Repository.csprojResolveAssemblyReference.cache
+D:\THUC HANH DO AN LAP TRINH WEB TREN .NET_CNTT10-01\ShoppingOnline\ShoppingOnline.Repository\obj\Debug\ShoppingOnline.Repository.dll
+D:\THUC HANH DO AN LAP TRINH WEB TREN .NET_CNTT10-01\ShoppingOnline\ShoppingOnline.Repository\obj\Debug\ShoppingOnline.Repository.pdb

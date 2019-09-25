@@ -1,0 +1,5 @@
+D:\THUC HANH DO AN LAP TRINH WEB TREN .NET_CNTT10-01\ShoppingOnline\ShoppingOnline.IRepository\bin\Debug\ShoppingOnline.IRepository.dll
+D:\THUC HANH DO AN LAP TRINH WEB TREN .NET_CNTT10-01\ShoppingOnline\ShoppingOnline.IRepository\bin\Debug\ShoppingOnline.IRepository.pdb
+D:\THUC HANH DO AN LAP TRINH WEB TREN .NET_CNTT10-01\ShoppingOnline\ShoppingOnline.IRepository\obj\Debug\ShoppingOnline.IRepository.csprojResolveAssemblyReference.cache
+D:\THUC HANH DO AN LAP TRINH WEB TREN .NET_CNTT10-01\ShoppingOnline\ShoppingOnline.IRepository\obj\Debug\ShoppingOnline.IRepository.dll
+D:\THUC HANH DO AN LAP TRINH WEB TREN .NET_CNTT10-01\ShoppingOnline\ShoppingOnline.IRepository\obj\Debug\ShoppingOnline.IRepository.pdb
